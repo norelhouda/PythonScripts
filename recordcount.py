@@ -1,3 +1,7 @@
+''' 
+Create a script that scans a folder containing multiple files, calculates the number of rows in each file, and then exports the results to an Excel spreadsheet.
+'''
+
 import os
 from pathlib import Path
 import io
